@@ -1,0 +1,11 @@
+ 1.Before directly running this code directly in your text editor make sure you have installed Application Builder . 
+  If you want to know how to do it then just follow the following  video. (https://www.youtube.com/watch?v=Tch-CpttcOc&t=2353s&ab_channel=ForMyScholars).
+
+ 2.Do make sure that you change the name of the classes according to that of your's class name .
+       (I specifically used 2 classes   1st for starting the timer and 2 nd for starting the typing arena.)
+
+ 3.Since I was short of time so I din't add any data-base connectivity to it but surely I will try it in near future.
+    Tip 1: *******  You can  can create a class   which will ask the name of the users name and display his past typing speeds .************
+    Tip 2: *******  In  my project the text was static ( only one paragraph was available to type. But you can surely try it make it more dynamic.********
+
+                                
